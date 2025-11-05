@@ -1,4 +1,4 @@
-Stopwatch Application
+# Stopwatch Application
 
 A browser-based stopwatch application designed for accuracy and a seamless user experience. This project demonstrates core front-end web development skills.
 
